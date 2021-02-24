@@ -1,0 +1,23 @@
+{
+  "name": "hello-name",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neumar/hello-name.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neumar/hello-name/issues"
+  },
+  "homepage": "https://github.com/neumar/hello-name#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
